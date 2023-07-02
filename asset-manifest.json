@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/whatssupp-clone/static/css/main.e6c13ad2.css",
+    "main.js": "/whatssupp-clone/static/js/main.cbeb7249.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/whatssupp-clone/static/js/787.c4e7f8f9.chunk.js",
+    "index.html": "/whatssupp-clone/index.html",
+    "main.e6c13ad2.css.map": "/whatssupp-clone/static/css/main.e6c13ad2.css.map",
+    "main.cbeb7249.js.map": "/whatssupp-clone/static/js/main.cbeb7249.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/whatssupp-clone/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.cbeb7249.js"
+  ]
+}
